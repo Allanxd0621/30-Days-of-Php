@@ -14,3 +14,11 @@ echo 'I used 2 break lines and print the third value of the array which is ' . $
 ?>
 
 
+<?php 
+
+$foods = ['burger' , 'hotdog' , 'fries' , 'pizza'];
+
+echo $foods[0]; //
+
+?>
+
